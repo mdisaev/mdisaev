@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mdisaev
 - 👀 I’m interested in psychology
 - 🌱 I’m currently learning c, js, java
-- 💞️ I’m looking to collaborate on c projects
+- 💞️ I’m looking to collaborate on js projects
 - 📫 How to reach me - tg @trishkeenan
 
 <!---
