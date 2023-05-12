@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @mdisaev
-- 👀 I’m interested in psychology
-- 🌱 I’m currently learning js, java
-- 💞️ I’m looking to collaborate on js projects
+- 👋 Hi, I’m Michael
+- 👀 I’m interested in AI
 - 📫 How to reach me - tg @trishkeenan
 
 <!---
