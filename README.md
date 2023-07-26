@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Michael
-- 👀 I’m interested in AI
 - 📫 How to reach me - tg @trishkeenan
 
 <!---
